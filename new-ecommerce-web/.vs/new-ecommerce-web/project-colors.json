@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bf4104c-c8f2-4411-a849-daeec501d274": {
+      "ProjectGuid": "5bf4104c-c8f2-4411-a849-daeec501d274",
+      "DisplayName": "new-ecommerce-web",
+      "ColorIndex": 0
+    },
+    "e6a173db-b436-473d-9044-74ed3f2f972b": {
+      "ProjectGuid": "e6a173db-b436-473d-9044-74ed3f2f972b",
+      "DisplayName": "ecommerce.Data",
+      "ColorIndex": 1
+    },
+    "cdc60aea-64c6-4f2d-93ad-677925dbdd32": {
+      "ProjectGuid": "cdc60aea-64c6-4f2d-93ad-677925dbdd32",
+      "DisplayName": "ecommerce.Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
